@@ -53,3 +53,33 @@ header {
 .place p {
   background-color: white;
 }
+
+.knopka {
+  border: 1px solid black;
+  border-radius: 20px;
+  cursor: pointer;
+  /*padding: 15px 10px;*/
+}
+
+.knopka:hover {
+  background-color: rgb(224, 162, 178);
+  color: black;
+}
+
+.main-dark-mode{
+  background-color: rgb(65, 65, 65);
+  color: white;
+}
+
+.dark-mode{
+  background-color: blueviolet;
+  color: black;
+}
+
+.header-mode {
+  background-color: black;
+}
+
+.a-dark-mode{
+  color: white;
+}
